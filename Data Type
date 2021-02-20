@@ -1,0 +1,28 @@
+Inspecting Data Types
+Use this Jupyter Notebook to inspect the datatypes of features in each dataset and think about what changes should be made to make them practical and consistent (in both datasets). Use this to help you answer the quiz questions below.
+
+
+Menu
+Expand
+
+QUESTION 1 OF 4
+Which of the following changes could be made to make the cyl column in both datasets clear and consistent?
+
+
+
+
+
+
+
+
+
+QUESTION 2 OF 4
+Which of the following changes could be made to make the air_pollution_score column in both datasets consistent?
+
+Convert strings to floats in the 2008 column.
+
+Convert ints to floats in the 2018 columns.
+
+
+
+QUESTION 3 OF 4
